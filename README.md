@@ -1,3 +1,7 @@
+This repo is replaced by https://github.com/gohugoio/hugo-mod-bootstrap-scss
+
+---
+
 This is a [Hugo Components](https://gohugo.io/hugo-modules/) that packages the [Bootstrap v5](https://getbootstrap.com/docs/4.4/getting-started/introduction/) SCSS source ready to be used in Hugo. For Bootstrap v4, see [hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4).
 
 You need the Hugo extended version and Go to use this component.
